@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dyerrington-genesys
 - 👀 I’m interested in helping with new projects, data science instruction, and helping write educational content!
 - 🌱 I’m currently learning **CI/CD integrations with Azure, GCP and MLFlow + Kubernetes**
-- 💞️ I’m looking to collaborate on data sciec
+- 💞️ I’m looking to collaborate on data science projects and cloud integrations!
 - 📫 How to reach me: 
    - General Github account: [http://github.com/dyerrington](http://github.com/dyerrington)
    - LinkedIn: [http://linkedin.com/in/davidyerrington](http://linkedin.com/in/davidyerrington)
